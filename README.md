@@ -1,6 +1,4 @@
-# 🛒 Online Flea Market
-
-![alt text](https://raw.githubusercontent.com/mainuddinrussel73/flea-mart-03/master/static/assets/corporate/img/logos/some.png)
+# 🛒 Online Flea Market ![alt text](https://raw.githubusercontent.com/mainuddinrussel73/flea-mart-03/master/static/assets/corporate/img/logos/some.png)
 
 An e-commerce web application for buying and selling second-hand products, providing users with an easy-to-use online marketplace for a variety of goods.
 
